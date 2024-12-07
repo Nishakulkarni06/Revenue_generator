@@ -24,7 +24,7 @@ npm: Comes with Node.js
 
 **Steps:**  
 1.Clone the repository:  
-git clone https://github.com/Nishakulkarni06/Revenue_generator
+git clone https://github.com/Nishakulkarni06/Revenue_generator  
 cd revenue-generator  
 
 2.Install dependencies:  
